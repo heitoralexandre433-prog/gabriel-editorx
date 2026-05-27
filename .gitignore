@@ -30,3 +30,5 @@ dist-ssr
 
 # Local dev environment artifacts
 .workspace/
+
+.vercel
